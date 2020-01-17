@@ -4,7 +4,7 @@ Given:
 
 - a tweet
 
-Task: classify the tweet as zero or more of eleven emotions that best represent the mental state of the tweeter:
+Classify the tweet as zero or more of eleven emotions that best represent the mental state of the tweeter:
 
 - anger (also includes annoyance and rage) can be inferred
 - anticipation (also includes interest and vigilance) can be inferred
